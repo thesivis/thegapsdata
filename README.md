@@ -7,10 +7,10 @@ These are randomly generated gaps
 These are sequentially generated gaps
 
 ## folder f0 (t1)
-When variables net, gi, gr, pari, and parr fail at once;
+When variables net, Rg(i), Rg(r), pari, and parr fail at once;
 
 ## folder f1 (t2)
-When variables net, gi, gr, pari, parr, tsoil, ppt, t, rh, u, and rhsoil fail at once;
+When variables net, Rg(i), Rg(r), pari, parr, tsoil, ppt, t, rh, u, and rhsoil fail at once;
 
 ## folder f2 (t3)
 When variables t and rh fail at once;
@@ -31,8 +31,8 @@ When each variable measured fails independently.
 - 3 - f3
 
 - 4 - net
-- 5 - gi
-- 6 - gr
+- 5 - Rg(i)
+- 6 - Rg(r)
 - 7 - pari
 - 8 - parr
 - 9 - tsoil
